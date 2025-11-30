@@ -12,7 +12,7 @@ written in Python using Qt.
 
 ## Animated demos
 
-### Slide transition
+### “Slide” transition
 
 ![VIfA-Launcher slide transition](docs/media/VifA-slide.gif)
 
@@ -20,7 +20,7 @@ written in Python using Qt.
 
 ![VIfA-Launcher search field](docs/media/VifA-searchfield.gif)
 
-### “Monte trick” / multi-step interaction
+### “Monte-Trick” transition
 
 ![VIfA-Launcher interaction demo](docs/media/VifA-montetrick.gif)
 
