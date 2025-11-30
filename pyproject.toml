@@ -1,0 +1,46 @@
+[build-system]
+requires = ["setuptools>=61", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "vifa-launcher"
+version = "0.1.0"
+description = "VIfA-Launcher (Visual Interface for Applications): a visual application launcher for Linux."
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "GPL-3.0-or-later" }
+authors = [
+    { name = "Tasteron" }
+]
+classifiers = [
+    "Development Status :: 3 - Alpha",
+    "Environment :: X11 Applications :: Qt",
+    "Intended Audience :: End Users/Desktop",
+    "License :: OSI Approved :: GNU General Public License v3 or later (GPLv3+)",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3 :: Only",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Operating System :: POSIX :: Linux",
+]
+dependencies = [
+    "PyQt5",
+    "numpy",
+    "Pillow",
+    "cairosvg",
+]
+
+[project.urls]
+Homepage = "https://github.com/tasteron/VIfA-Launcher"
+
+[project.scripts]
+vifa-launcher = "vifa_launcher.main:main"
+vifa-launcher-settings = "vifa_launcher.settings_ui:main"
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
