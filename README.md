@@ -10,6 +10,21 @@ written in Python using Qt.
 ![VIfA-Launcher main view 1](docs/media/vifa-launcher-main1.png)
 ![VIfA-Launcher main view 2](docs/media/vifa-launcher-main2.png)
 
+## Animated demos
+
+### Slide transition
+
+![VIfA-Launcher slide transition](docs/media/VifA-slide.gif)
+
+### Search field usage
+
+![VIfA-Launcher search field](docs/media/VifA-searchfield.gif)
+
+### “Monte trick” / multi-step interaction
+
+![VIfA-Launcher interaction demo](docs/media/VifA-montetrick.gif)
+
+
 ### Settings dialog
 
 ![VIfA-Launcher settings dialog](docs/media/vifa-launcher-settings.png)
