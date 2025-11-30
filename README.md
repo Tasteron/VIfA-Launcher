@@ -46,6 +46,7 @@ written in Python using Qt.
 
 ## Installation (from source)
 
+
 ### Requirements
 
 - Python 3.10 or newer
