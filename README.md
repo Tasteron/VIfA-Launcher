@@ -3,6 +3,18 @@
 VIfA-Launcher is a graphical launcher for applications on Linux,
 written in Python using Qt.
 
+## Screenshots
+
+### Main launcher view
+
+![VIfA-Launcher main view 1](docs/media/vifa-launcher-main1.png)
+![VIfA-Launcher main view 2](docs/media/vifa-launcher-main2.png)
+
+### Settings dialog
+
+![VIfA-Launcher settings dialog](docs/media/vifa-launcher-settings.png)
+
+
 ## Features
 
 - Launch applications through a modern graphical interface
