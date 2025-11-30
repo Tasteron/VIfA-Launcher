@@ -24,7 +24,6 @@ written in Python using Qt.
 
 ![VIfA-Launcher interaction demo](docs/media/VifA-montetrick.gif)
 
-
 ### Settings dialog
 
 ![VIfA-Launcher settings dialog](docs/media/vifa-launcher-settings.png)
