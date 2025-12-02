@@ -56,7 +56,7 @@ written in Python using Qt.
   - Pillow (PIL)
   - cairosvg
 
-### Steps
+#### Steps
 
 ```bash
 git clone https://github.com/tasteron/VIfA-Launcher.git
