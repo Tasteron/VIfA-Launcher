@@ -59,8 +59,7 @@ written in Python using Qt.
 ## Tip: Assign a keyboard shortcut
 
 For convenient access, you can create a global keyboard shortcut in your desktop
-environment that starts VIfA-Launcher. On my system I use the `F12` key, so I can
-open the launcher from anywhere with a single press.
+environment that starts VIfA-Launcher. On my system I use the `F12` key.
 
 Simply configure a custom shortcut in your system settings that runs:
 
