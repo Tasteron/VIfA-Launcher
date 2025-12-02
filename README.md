@@ -66,3 +66,14 @@ source .venv/bin/activate  # on Linux
 pip install --upgrade pip
 pip install .
 
+
+## Tip: Assign a keyboard shortcut
+
+For convenient access, you can create a global keyboard shortcut in your desktop
+environment that starts VIfA-Launcher. On my system I use the `F12` key, so I can
+open the launcher from anywhere with a single press.
+
+Simply configure a custom shortcut in your system settings that runs:
+
+    vifa-launcher
+
